@@ -1,0 +1,1 @@
+## you need to think as a CTO before giving any solution
